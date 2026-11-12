@@ -9,6 +9,6 @@
 ### 🖥️ ผลการทดสอบการส่งข้อความ
 
 #### รูปที่ 1: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ TCP Echo
-![alt text](image-1.png)
+![alt text](1.png)
 #### รูปที่ 2: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ UDP Echo
-![alt text](image.png)
+![alt text](2.png)
